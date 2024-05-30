@@ -15,9 +15,6 @@ Atualmente busca pelos livros na API pode ser feita em quatro idimoas: Portuguê
 </p> 
 
 ### Tecnologias Utilizadas:
-Esse projeto foi criado utilizando as seguintes tecnologias:
-
-### Back-end:
 <div> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">   
 </div>
